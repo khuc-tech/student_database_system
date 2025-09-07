@@ -47,7 +47,7 @@ STUDENT_DATABASE_SYSTEM/
 
 ## 🔎 Sample Queries
 
-Here are a couple of examples (full list in [Queries file](scripts/queries.sql).):  
+Here are a couple of examples (full list in [Queries file](scripts/).):  
 
 ```sql  
 -- Count number of students enrolled in each batch & program  
@@ -79,10 +79,10 @@ GROUP BY r.Student_Id;
 You can find all screenshots in the [Screenshots Folder](scripts/screenshots/).  
 
 Count number of students enrolled in each batch & program  
-![Q9](screenshots/Q9.png)  
+![Q9](scripts/screenshots/Q9.jpg)  
 
 Find the average SGPA of each student for Semester 3  
-![Q10](screenshots/Q10.png)  
+![Q10](scripts/screenshots/Q10.jpg)  
 
 
 ### 👩‍💻 Author
