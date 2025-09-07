@@ -47,7 +47,7 @@ STUDENT_DATABASE_SYSTEM/
 
 ## 🔎 Sample Queries
 
-Here are a couple of examples (full list in [Queries file](scripts/).):  
+Here are a couple of examples (full list in [Queries file](scripts/queries.sql).):  
 
 ```sql  
 -- Count number of students enrolled in each batch & program  
